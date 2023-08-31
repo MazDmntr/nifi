@@ -1,2 +1,3 @@
 # nifi
-A kubernetes nifi application
+
+This is a repository destinated for tests and learning using apache NiFi.
